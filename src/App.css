@@ -1,0 +1,10 @@
+/* @media  (max-width: 1400px) {
+    .col-md-3{
+      column-count: 4;
+    }
+} */
+
+.nav-item a:hover{
+    color: orange;
+}
+
